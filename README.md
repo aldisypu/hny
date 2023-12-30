@@ -1,3 +1,14 @@
+# Happy New Year
+React happy new year web
+
+#### Library
+- tailwindcss
+- react-simple-typewriter
+- react-particles
+- tsparticles-preset-fireworks
+- react-countdown
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
